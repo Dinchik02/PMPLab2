@@ -300,6 +300,7 @@
 				7E97BC0B1C2AE50000F811A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
